@@ -16,6 +16,10 @@ body{
 	color: #333;
 	overflow: hidden;
 	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+	-ms-font-smoothing: antialiased;
+	-o-font-smoothing: antialiased;
+	smoothing: antialiased;
 }
 
 a{
